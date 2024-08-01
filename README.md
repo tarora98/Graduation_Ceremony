@@ -20,3 +20,8 @@ Test cases:
 
 for 5 days: 14/29
 for 10 days: 372/773
+
+
+
+# Solution:-
+# -> Kindly run the main.py file to get the output
