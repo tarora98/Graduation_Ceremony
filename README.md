@@ -24,4 +24,4 @@ for 10 days: 372/773
 
 
 # Solution:-
-# -> Kindly run the main.py file to get the output
+-> Kindly run the main.py file to get the output
